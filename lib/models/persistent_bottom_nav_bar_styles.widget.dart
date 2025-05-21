@@ -31,7 +31,7 @@ class NavBarDecoration {
     this.border,
     this.gradient,
     this.borderRadius,
-    this.colorBehindNavBar = CupertinoColors.black,
+    this.colorBehindNavBar = CupertinoColors.white,
     this.boxShadow,
     this.adjustScreenBottomPaddingOnCurve = true,
   });

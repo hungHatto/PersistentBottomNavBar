@@ -127,6 +127,7 @@ class PersistentTabView extends PersistentTabViewBase {
           screenTransitionAnimation: screenTransitionAnimation,
           isCustomWidget: true,
           decoration: const NavBarDecoration(colorBehindNavBar: Colors.white),
+          decoration: const NavBarDecoration(),
         );
 
   ///Screens that will be displayed on tapping of persistent bottom navigation bar items.

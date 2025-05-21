@@ -126,7 +126,6 @@ class PersistentTabView extends PersistentTabViewBase {
           hideNavigationBar: hideNavigationBar,
           screenTransitionAnimation: screenTransitionAnimation,
           isCustomWidget: true,
-          decoration: const NavBarDecoration(colorBehindNavBar: Colors.white),
           decoration: const NavBarDecoration(),
         );
 
